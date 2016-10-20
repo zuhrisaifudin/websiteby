@@ -1,0 +1,24 @@
+{
+  "name": "zuhri",
+  "version": "1.0.0",
+  "description": "Website Front End Developer Indonesia",
+  "main": "server.js",
+  "scripts": {
+    "test": "website"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuhrisaifudin/websiteby.git"
+  },
+  "keywords": [
+    "Website",
+    "NodeJS",
+    "ExpressJS"
+  ],
+  "author": "zuhri saifudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuhrisaifudin/websiteby/issues"
+  },
+  "homepage": "https://github.com/zuhrisaifudin/websiteby#readme"
+}
